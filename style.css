@@ -1,0 +1,23 @@
+
+        .flag {
+            width: 450px;
+            height: 300px;
+            display: flex;
+            border: 2px solid black;
+        }
+
+        .green {
+            background-color: #14B53A;
+            width: 33.33%;
+        }
+
+        .yellow {
+            background-color: #FCD116;
+            width: 33.33%;
+        }
+
+        .red {
+            background-color: #CE1126;
+            width: 33.33%;
+        }
+    
